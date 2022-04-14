@@ -9,8 +9,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas con este proyecto son:
 
--El poder aprender a crear codigo de NodeJS y sobre todo poder comprenderlo
--Aprender git y github
--Aprender a diseñar apps de backend
--Compartir :D
+El poder aprender a crear codigo de NodeJS y sobre todo poder comprenderlo
+Aprender git y github
+Aprender a diseñar apps de backend
+Compartir :D
+
 🚀
