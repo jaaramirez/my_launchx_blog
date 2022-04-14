@@ -6,7 +6,22 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://jaaramirez.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jaaramirez.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://jaaramirez.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaaramirez.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Durante mi recorrido en Launch X he aprendido :
+-Phyton (moria por saber a usar este programa, fui feliz cuando en el onbording mencionaron que sería primer lenguaje a aprender) :D
+-HTML
+-CSS (debo confesar que este me gusto, pero me resulto dificil)
+-JS
+-VueJS
+Cada uno de ellos tienen uan historia graciosa, pero lo mas increible de esto es que gracias a ellos pude llegar a la Mission Backend NODE JS</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://jaaramirez.github.io/my_launchx_blog/posts/intro/</link>
