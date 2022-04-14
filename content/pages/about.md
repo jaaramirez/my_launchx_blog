@@ -2,20 +2,18 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: Janet
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Siempre he vivido en la ciudad
+> Estudie la carrera de Criminología y Criminalística, este fue mi primer acercamiento a la programación
+> Me gusta la literatura de todo tipo, si hay un buen autor con el cual conversar podemos pasar la noche en vela 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+El haberme inscrito a la certificación AZ-900 ha sido uan de la smejores desisciones que he tomado en mi vida
+
+Seguire aprendiendod de este increible mundo de la programación ...
 
