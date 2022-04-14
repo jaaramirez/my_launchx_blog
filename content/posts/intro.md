@@ -9,8 +9,13 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Desde mi punto de vista la cultura de un profesional de sotfware se basa en:
 
 -Respeto
+
 -Tolerancia
+
 -Confianza
+
 -Disciplina
+
 -Pasión
+
 -Ética 
